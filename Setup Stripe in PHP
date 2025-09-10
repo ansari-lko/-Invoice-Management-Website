@@ -1,0 +1,3 @@
+First install Stripe PHP SDK using Composer:
+
+composer require stripe/stripe-php
